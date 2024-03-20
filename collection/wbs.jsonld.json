@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
+  },
+  "schema:about": {
+    "@id": "http://id.worldcat.org/fast/0799707"
+  },
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:description": "\"During the spring of 1969 some 50 African American students, accompanied by psychology professor Ed Turner, the sole African American faculty member on campus, marched on the Chancellor's Office to demand, in part, creation of a Department of African American Studies. The negotiations begun by Chancellor Emil Mrak were continued under Chancellor James Meyer. It was decided to create an African American Studies Program, and FTE were set aside for faculty with expertise in the black experience. Ed Turner,appointed director of Black Studies, consulted with a newly formed curriculum development committee consisting of black political sociologist and Berkeley graduate student Hardy Frye, black cultural geographer and UCD lecturer Charles C. Irby, and white political sociologist John Leggett. Their report \"Whither Black Studies,\" produced in August 1971 became the program's planning document.\" (_Abundant Harvest: History of UC Davis_, p. 330)",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3abcd/E184_7_F79_005.jpg"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:name": "Whither Black Studies?",
+  "schema:publisher": [
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    },
+    "UC Davis, Archives and Special Collections"
+  ],
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2021"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": [
+    "UC Davis, Archives and Special Collections",
+    {
+      "@id": "http://id.loc.gov/authorities/names/no2008108707"
+    }
+  ]
+}
