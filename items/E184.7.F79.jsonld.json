@@ -35,7 +35,7 @@
     "ark:/87293/d3abcd"
   ],
   "schema:image": {
-    "@id": "info:fedora/item/media/images/E184_7_F79_005.jpg"
+    "@id": "@base:/media/images/E184_7_F79_005.jpg"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
